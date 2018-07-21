@@ -1,0 +1,15 @@
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\AzureAssignment.exe.config
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\AzureAssignment.exe
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\AzureAssignment.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\obj\Debug\AzureAssignment.csprojAssemblyReference.cache
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\obj\Debug\AzureAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\obj\Debug\AzureAssignment.csproj.CopyComplete
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\obj\Debug\AzureAssignment.exe
+C:\Users\Dhanusha.Kommineni\source\repos\AzureAssignment\AzureAssignment\obj\Debug\AzureAssignment.pdb
